@@ -1,1 +1,3 @@
 # Belajar Python
+
+dasar python
