@@ -16,7 +16,7 @@ if b2 > max:
 
 if b3 > max:
     max =b3
-    bil_terbesar = "b2"
+    bil_terbesar = "b3"
 if b4 > max:
     max = b4
     bil_terbesar = "b4"
