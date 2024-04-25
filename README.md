@@ -12,6 +12,8 @@
 
 ### Tugas dasar pemrograman
 
+[S1P04_hitung_gaji_karyawan](/tugas/S1P04_hitung_gaji_karyawan.py)
+
 ### note
 
 ```
