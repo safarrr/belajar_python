@@ -6,7 +6,7 @@ def hitung_nilai(nilai):
     elif nilai > 85:
         return "lebih baik"
     else:
-        return "tidak lulus"
+        return "kurang"
 
 
 print(hitung_nilai(nilai= 0))
