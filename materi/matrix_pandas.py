@@ -6,7 +6,7 @@ list_uts=[]
 list_uas=[]
 list_total=[]
 
-ulang = 1
+ulang = 3
 
 for i in range(ulang):
     print("data ke - ", i+1)
@@ -30,4 +30,4 @@ data_tamu = pd.DataFrame(tamu)
 
 print("="*5 +"daftar Nilai"+"="*5 )
 print(data_tamu)
-print("="*10 )
+print("="*100 )
